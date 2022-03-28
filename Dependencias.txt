@@ -1,0 +1,23 @@
+========================================================== DEPENDENCIAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° Visual Studio Code.
+
+° HTML.
+
+° CSS.
+
+° JavaScript.
+
+° Firebase.
+
+° Node JS.
+
+° React Native.
+
+° Expo.
+
+° NPM.

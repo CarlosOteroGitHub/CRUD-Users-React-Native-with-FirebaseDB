@@ -1,0 +1,23 @@
+========================================================== COMANDOS ==========================================================
+
+° npm install --global expo-cli: Comando utilizado para instalar la ultima versión de Expo.
+
+° expo init [nombre_proyecto]: Comando para iniciar un proyecto de react native con Expo.
+
+° npm install @react-navigation/native:
+
+° expo install react-native-screens react-native-safe-area-context:
+
+° npm install @react-navigation/stack:
+
+° npm install react-native-gesture-handler@1.10.2:
+
+° npm install firebase: Comando utilizado para instalar la ultima versión de Firebase.
+
+° npm install react-native-elements:
+
+° npm install react-native-gesture-handler:
+
+° npm install: Comando utilizado para instalar todas las dependencias descargadas.
+
+° expo start: Comando utilizado para correr la aplicación móvil, la cual puede ejecutarse en el navegador o teléfono celular mediante un código QR.
